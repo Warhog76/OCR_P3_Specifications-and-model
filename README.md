@@ -1,5 +1,7 @@
 # Openclassroom-Dev-PHP-Symfony-P3
 
-Voici la maquette HTML/CSS et le CDC pour le projet n°3 de la formation OpenClassroom developpeur PHP/symfony.
+This repository is based on OPENCLASSROOMS project for DEV PHP/SYMFONY certificate.
 
-Le but du projet était : Analysez les besoins de votre client pour son festival de films.
+Here is the HTML/CSS mockup and the CDC for the project n°3 of the OpenClassroom developper PHP/symfony training.
+
+The goal of the project was: Analyze the needs of your client for his film festival.
